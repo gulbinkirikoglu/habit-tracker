@@ -6,7 +6,8 @@ To use the Habit Tracker, follow these steps:
 
 1 - Installation: Ensure you have Python installed on your system. Additionally, you need to install the pandas and tabulate libraries. You can install them using pip:
 
-pip install pandas tabulate
+pip install pandas 
+pip install tabulate
 
 2 - Running the Program: 
     Execute the Python script "main.py" to start the Habit Tracker.
